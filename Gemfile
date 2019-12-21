@@ -39,13 +39,12 @@ gem 'config'
 
 gem 'serviceworker-rails'
 
-gem 'carrierwave'
 gem 'rmagick'
 gem 'mini_magick'
 
 gem "jquery-rails"
 
-
+gem 'meta-tags'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
